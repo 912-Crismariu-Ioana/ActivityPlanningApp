@@ -1,0 +1,51 @@
+{
+    "activities": [
+        {
+            "id": "78",
+            "date": "06.12.2020",
+            "start time": "10:13",
+            "end time": "12:15",
+            "description": "studying for the CSA midterm",
+            "person list": [
+                [
+                    "Ioana",
+                    "78"
+                ],
+                [
+                    "Laura",
+                    "45"
+                ]
+            ]
+        },
+        {
+            "id": "24",
+            "date": "06.12.2020",
+            "start time": "15:00",
+            "end time": "17:00",
+            "description": "going for a walk",
+            "person list": [
+                [
+                    "Emilia",
+                    "72"
+                ],
+                [
+                    "Andrei",
+                    "34"
+                ]
+            ]
+        },
+        {
+            "id": "67",
+            "date": "07.12.2020",
+            "start time": "08:00",
+            "end time": "23:00",
+            "description": "lectures",
+            "person list": [
+                [
+                    "Andreea",
+                    "24"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+23;01.01.2021;10:00;12:00;visiting grandparents ;[['Joe', '23'], ['Daria W', '12'], ['Sabin D', '19']]
+13;14.12.2020;13:00;17:00;ice skating;[['Daria W', '12'], ['Anna k', '56'], ['Sabin D', '19']]
+14;05.01.2021;15:00;16:00;listening to music;[['Santa Claus', '34'], ['Sabin D', '19'], ['Daria W', '12']]
+56;12.12.2020;23:00;23:15;take out the trash;[['Joe', '23'], ['Santa Claus', '34']]
+89;17.07.2020;23:00;23:15;gardening;[['Alina P', '15'], ['Sabin D', '19']]
+34;14.10.2020;13:00;15:00;taking a walk through the park;[['Anna k', '56'], ['Daria W', '12']]
